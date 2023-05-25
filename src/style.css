@@ -25,6 +25,7 @@ body{
     align-items: center;
     position: fixed;
     width: 100%;
+    z-index: 100;
 }
 #nb-Buttom{
     background-color: #a38271;
